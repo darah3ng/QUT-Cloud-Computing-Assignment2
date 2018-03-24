@@ -1,0 +1,24 @@
+{
+  "name": "cab432-tweetstream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "pm2": "^2.7.2",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwflannery/cab432-tweetstream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwflannery/cab432-tweetstream/issues"
+  },
+  "homepage": "https://github.com/jwflannery/cab432-tweetstream#readme"
+}

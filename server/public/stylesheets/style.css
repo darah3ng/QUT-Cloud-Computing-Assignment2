@@ -1,0 +1,27 @@
+.jumbotron{
+  background-color: cornflowerblue;
+  color: white;
+  font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+  text-align: center;
+}
+
+.topwordstable{
+  width: 50%;
+}
+
+.topwordstable th{
+  padding: 5px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+#tableheader{
+  background-color: lightskyblue;
+  color: white;
+  font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+}
+
+#sentimentHeader{
+  border: 1px solid black;
+  font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+}
